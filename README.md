@@ -14,9 +14,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=killdistance&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ferick)
-
 [<img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ferickandrew)
 
 [<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/flumiie)
