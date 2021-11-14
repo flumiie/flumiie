@@ -6,8 +6,7 @@
 ## I'm a Web & App Developer
 
 - 🌱 I’m currently learning multiple kinds of stuff to keep me going
-- 👯 I’m looking to collaborate with others on a project or make something big
-- ⚡ I love to draw & create stuff that is brand new to me
+- ⚡ I love to draw & create stuff that is brand new to me. P.S: Currently delving into selling my own NFT
 
 ### Spotify Playing 🎧
 
