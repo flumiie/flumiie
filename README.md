@@ -6,7 +6,7 @@
 ## I'm a Web & App Developer
 
 - 🌱 I’m currently learning multiple kinds of stuff to keep me going
-- ⚡ I love to draw & create stuff that is brand new to me. P.S: Currently delving into selling my own NFT
+- ⚡ I love to draw & create stuff that is brand new to me. P.S: Currently learning Rust
 
 ### Spotify Playing 🎧
 
