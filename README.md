@@ -13,9 +13,9 @@
 - 🌱 I’m currently learning multiple kinds of stuff to keep me going
 - ⚡ I love to draw & create stuff that is brand new to me
 
-### Spotify Playing 🎧
+### Now Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=killdistance&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=killdistance&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=killdistance&redirect=true)
 
 ### Connect with me:
 [<img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ferickandrew)
