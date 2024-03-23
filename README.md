@@ -7,16 +7,19 @@
 
 <!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/flumi) -->
 
-### Hi there, I'm Ferick a.k.a flumi [[Portfolio](https://ferick.me)] 👋
+### Hi there, I'm Ferick a.k.a flumi 👋
 
 ## I'm a Web & App Developer
 
-- 🌱 I’m currently learning multiple kinds of stuff to keep me going
-- ⚡ I love to draw & create stuff that is brand new to me
+- 👩‍💻 I do mostly frontend in programming
+- 🎼 I self-taught on how to make music
+- 🌱 I love to create stuff that is brand new to me
 
 ### Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=killdistance&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=killdistance&redirect=true)
+
+NOTE: _This spotify player preview is broken, looking for alternative ..._
 
 ---
 
