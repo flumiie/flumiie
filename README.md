@@ -14,6 +14,7 @@
 - 👩‍💻 I do mostly frontend in programming
 - 🎼 I self-taught on how to make music
 - 🌱 I love to create stuff that is brand new to me
+- 🦊 ฅ^•ﻌ•^ฅ
 
 ### Now Playing 🎧
 
