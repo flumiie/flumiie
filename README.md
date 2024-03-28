@@ -1,6 +1,8 @@
 [![Website](https://img.shields.io/website?label=flumi.space&style=for-the-badge&url=https%3A%2F%2Fflumi.space)](https://flumi.space)
 [![Twitter](https://img.shields.io/twitter/follow/flumi_tw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflumiie&screen_name=flumi_tw)
+
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/flumiie/)-->
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferick/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/aircatcher1)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCBhpGOjRDqbmkGBxXMH9nbA)
@@ -11,7 +13,9 @@
 
 ## I'm a Web & App Developer
 
-- 👩‍💻 I program mostly hybrid apps (Web dev is not much of a thing these days, there are web builders everywhere)
+- 👩‍💻 I program mostly hybrid apps (Web dev is not much of a thing these days, there are web builders everywhere ...WordPress was my go to, remember that thing?)
+  - TypeScript is my main language
+  - React / React Native is my main javascript framework library
 - 🎼 I self-taught on how to make music
 - 🌱 I love to create stuff that is brand new to me
 - 🦊 ฅ^•ﻌ•^ฅ
