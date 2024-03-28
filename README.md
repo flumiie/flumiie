@@ -11,7 +11,7 @@
 
 ## I'm a Web & App Developer
 
-- 👩‍💻 I do mostly frontend in programming
+- 👩‍💻 I program mostly hybrid apps (Web dev is not much of a thing these days, there are web builders everywhere)
 - 🎼 I self-taught on how to make music
 - 🌱 I love to create stuff that is brand new to me
 - 🦊 ฅ^•ﻌ•^ฅ
