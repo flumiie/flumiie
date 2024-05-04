@@ -15,7 +15,7 @@
 
 - 👩‍💻 I program mostly hybrid apps (Web dev is not much of a thing these days, there are web builders everywhere ...WordPress was my go to, remember that thing?)
   - TypeScript is my main language
-  - React / React Native is my main javascript framework library
+  - Vite / React / React Native is my main javascript framework library
 - 🎼 I self-taught on how to make music
 - 🌱 I love to create stuff that is brand new to me
 - 🦊 ฅ^•ﻌ•^ฅ
