@@ -33,6 +33,6 @@ NOTE: _This spotify player preview is broken, looking for alternative ..._
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-[![flumiie's GitHub stats](https://github-readme-stats.vercel.app/api?theme=cobalt&show_icons=true&username=flumiie)](https://github.com/flumiie)
+![flumiie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flumiie&langs_count=8&theme=transparent&title_color=ee81ac&text_color=ffffff&icon_color=ee81ac&hide_border=true)
 
-[![flumiie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=cobalt&username=flumiie&langs_count=8)](https://github.com/flumiie)
+![flumiie's GitHub stats](https://github-readme-stats.vercel.app/api?username=flumiie&show_icons=true&theme=transparent&title_color=ee81ac&text_color=ffffff&icon_color=ee81ac&hide_border=true)
