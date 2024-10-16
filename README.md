@@ -1,5 +1,5 @@
-[![Website](https://img.shields.io/website?label=flumi.space&style=for-the-badge&url=https%3A%2F%2Fflumi.space)](https://flumi.space)
 [![Twitter](https://img.shields.io/twitter/follow/flumi_husky?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fflumiie&screen_name=flumi_husky)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/flumi_husky)
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/flumiie/)-->
 
@@ -13,7 +13,7 @@
 
 ## I'm a Web & App Developer
 
-- 👩‍💻 I program mostly hybrid apps (Web dev is not much of a thing these days, there are web builders everywhere ...WordPress was my go to, remember that thing?)
+- 👩‍💻 I program hybrid apps & websites
   - TypeScript is my main language
   - Vite / React / React Native is my main javascript framework library
 - 🎼 I self-taught on how to make music
