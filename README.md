@@ -1,6 +1,6 @@
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/flumiie/)-->
 
-[![Website](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://flumi.wasmer.app)
+[![Website](https://img.shields.io/badge/Website-pink?style=for-the-badge&logo=vite&link=https%3A%2F%2Fflumi.wasmer.app%2F)](https://flumi.wasmer.app)
 
 <!-- [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/flumi) -->
 
